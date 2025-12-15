@@ -116,6 +116,5 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 
 
-<img width="1544" height="803" alt="image" src="https://github.com/user-attachments/assets/5fc34994-7a11-4061-9ef0-050198fde326" />
 
   
